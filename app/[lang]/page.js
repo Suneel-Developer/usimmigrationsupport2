@@ -8,7 +8,7 @@ import Information from "../home/Information";
 import OurServices from "../home/OurServices";
 import MemberCountries from "../home/MemberCountries";
 
-const LanguagePage = () => {
+const Home = () => {
   const { t, i18n } = useTranslation();
 
   useEffect(() => {
@@ -110,4 +110,4 @@ export const getStaticPaths = async () => ({
   fallback: false,
 });
 
-export default LanguagePage;
+export default Home;
