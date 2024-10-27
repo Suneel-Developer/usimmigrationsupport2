@@ -1,0 +1,79 @@
+{
+  "header": {
+    "customerService": "Customer Service"
+  },
+  "hero": {
+    "heading": "Commencer la demande d'ESTA",
+    "subheading": "Par quel pays votre passeport a-t-il été délivré ?",
+    "inputplacholder": "Sélectionner le pays",
+    "checkboxselect": " Cochez la case si vous possédez plus d'un passeport",
+    "label": " Sélectionnez votre deuxième passeport",
+    "label2": " Sélectionnez la raison de votre voyage aux États-Unis",
+    "reason": {
+      "tourism": "Tourisme et voyage",
+      "business": "Voyage d'affaires",
+      "transit": "Transit"
+    },
+    "continueapplicationbt": "Continuer la demande"
+  },
+
+  "information": {
+    "informationheading": "Information",
+    "informationdisc": "Ce site Web est géré par ETAS TRAVEL LEGAL, un cabinet d'avocats américain agréé. Ce site Web n'est affilié à aucune agence gouvernementale des États-Unis. Notre plateforme fournit une assistance étape par étape pour garantir que les candidatures sont complètes et exactes. Tous les candidats peuvent postuler directement sur esta.cbp.dhs.gov sans notre aide. Nous facturons des frais de traitement de 118 USD par demande. Les frais ESTA s’élèvent à 21 USD, ce qui porte le coût total par demande à 139 USD.ffiliated with any United States governmental agency. Our platform provides step-by-step assistance to ensure applications are complete and accurate. All applicants can apply directly at esta.cbp.dhs.gov without our assistance. We charge a processing fee of USD 118 per application. The ESTA fee is USD 21, making the total cost per application USD 139."
+  },
+
+  "ourservices": {
+    "heading": "Nos Services",
+    "disc": "Chez ETAS TRAVEL LEGAL, nous simplifions le processus de demande ESTA, garantissant une expérience fluide et sans stress pour les voyageurs. Nos spécialistes dédiés gèrent votre demande du début à la fin, en utilisant des outils numériques intelligents pour rendre le processus rapide et facile. Au lieu de gérer des formulaires gouvernementaux complexes, nous nous occupons de tous les détails pour vous.",
+    "disc2": "Avec ETAS TRAVEL LEGAL, vous bénéficiez d’une assistance experte, de mises à jour en temps réel et de la tranquillité d’esprit que votre demande ESTA est entre de bonnes mains, vous permettant de vous concentrer sur votre prochain voyage.",
+    "listheading": "Les services clés que nous offrons incluent :",
+    "listheadingtwo": "Service de traitement ESTA",
+    "list1": "Spécialiste dédié : Un expert personnel gérera votre demande du début à la fin.",
+    "list2": "Outils intelligents : Nous remplaçons les formulaires gouvernementaux compliqués par des outils numériques conviviaux.",
+    "list3": "Correction proactive des erreurs : Nous corrigeons toutes les erreurs ou incohérences dans votre demande.",
+    "list4": "Soutien juridique : Si nécessaire, un avocat en immigration agréé vous assistera dans votre dossier.",
+    "list5": "Assistance 24/7 : Contactez-nous à tout moment, de n’importe où dans le monde, par e-mail ou par téléphone.",
+    "list6": "Délais de traitement rapides",
+    "list7": "Évitez le stress inutile",
+    "list8": "Prévenez les fautes d’orthographe",
+    "list9": "Formulaire de demande convivial",
+    "list10": "Informations vérifiées par des spécialistes dédiés",
+    "list11": "Assistance illimitée 24/7 et réponses rapides",
+    "list12": "Révision par un spécialiste en voyages"
+  },
+
+  "section1": {
+    "sectionheading": "ESTA France : Visiter les Etats-Unis avec un visa B-2 ou une autorisation de voyage",
+    "sectiondisc": "Tous les citoyens français qui se rendent aux États-Unis d’Amérique doivent être en possession d’un visa ou d’une autorisation de voyage (ESTA) en cours de validité, à moins qu’ils ne soient titulaires d’une carte verte. Alors que le visa est délivré par une ambassade américaine, l’autorisation de voyage est demandée et délivrée en ligne. Le système électronique d’autorisation de voyage (ESTA) est une plateforme en ligne conçue pour faciliter le processus de demande dans le cadre du programme américain d’exemption de visa. Pour les personnes qui prévoient de se rendre aux États-Unis par voie aérienne ou maritime, l’obtention d’une autorisation de voyage par l’intermédiaire de l’ESTA est une condition préalable à l’embarquement."
+  },
+
+  "section2": {
+    "sectionheading": "Quelles sont les conditions à remplir pour faire une demande d’ESTA pour les citoyens français?",
+    "sectiondisc": "Le programme d’exemption de visa est réservé aux citoyens de 41 pays éligibles. Pour obtenir une autorisation de voyage, une demande ESTA doit être dûment remplie. En outre, un passeport biométrique comportant une puce et le symbole correspondant sur sa couverture est obligatoire. Le programme d’exemption de visa permet des séjours d’une durée maximale de 90 jours, à des fins de tourisme, d’affaires, de transit, de soins de santé ou de participation à des programmes d’études non accrédités.",
+    "sectiondisc2": "Il est recommandé aux voyageurs de faire une demande d’ESTA avant de réserver un hôtel ou un vol, car ils pourraient avoir besoin d’un visa complet. Une fois votre demande ESTA approuvée, vous avez la possibilité de la mettre à jour avec les derniers détails de votre itinéraire avant votre départ."
+  },
+
+  "checklistsection": {
+    "heading": "Liste de contrôle pour les citoyens français visitant les États-Unis d’Amérique",
+    "list1": "Passeport valide",
+    "list2": "Approuvé ESTA ou Visa",
+    "list3": "Itinéraire et détails de l’hébergement.",
+    "list4": "Contacts d’urgence",
+    "list5": "Cartes et applications de voyage",
+    "list6": "Accès à Internet",
+    "list7": "Moyens de paiement et monnaie locale (USD)",
+    "list8": "Options de transport",
+    "list9": "Lire les dernières nouvelles",
+    "list10": "Application de traduction (si nécessaire)",
+    "list11": "Adaptateurs pour 110V"
+  },
+
+  "countrylist": {
+    "heading": "Pays désignés dans le cadre du programme d’exemption de visa"
+  },
+
+  "footer": {
+    "footerdescription": "Ce site Web est géré par ETAS TRAVEL LEGAL, un cabinet d'avocats américain agréé. Ce site Web n'est affilié à aucune agence gouvernementale des États-Unis. Notre plateforme fournit une assistance étape par étape pour garantir que les candidatures sont complètes et exactes. Notre service et nos frais sont facultatifs. Les candidats peuvent postuler directement sur esta.cbp.dhs.gov",
+    "copyrights": "© 2024 SOUTIEN À L'IMMIGRATION DES ÉTATS-UNIS - Tous droits réservés"
+  }
+}

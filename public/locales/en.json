@@ -1,0 +1,80 @@
+{
+  "header": {
+    "customerService": "Customer Service"
+  },
+
+  "hero": {
+    "heading": "Start ESTA Application",
+    "subheading": "Which country issued your passport?",
+    "inputplacholder": "Select country",
+    "checkboxselect": "Check the box if you hold more than one passport",
+    "label": "Select your second passport",
+    "label2": "Select reason for traveling to the U.S.",
+    "reason": {
+      "tourism": "Tourism & Travel",
+      "business": "Business Trip",
+      "transit": "Transit"
+    },
+    "continueapplicationbt": "Continue Application"
+  },
+
+  "information": {
+    "informationheading": "Information",
+    "informationdisc": "This website is managed by ETAS TRAVEL LEGAL, a licensed U.S. Law Firm. This website is NOT affiliated with any United States governmental agency. Our platform provides step-by-step assistance to ensure applications are complete and accurate. All applicants can apply directly at esta.cbp.dhs.gov without our assistance. We charge a processing fee of USD 118 per application. The ESTA fee is USD 21, making the total cost per application USD 139."
+  },
+
+  "ourservices": {
+    "heading": "Our Services",
+    "disc": "At ETAS TRAVEL LEGAL, we simplify the ESTA application process, ensuring a smooth and stress-free experience for travelers. Our dedicated specialists manage your application from start to finish, using smart digital tools to make the process quick and easy. Instead of dealing with complex government forms, we handle all the details for you.",
+    "disc2": "With ETAS TRAVEL LEGAL, you get expert assistance, real-time updates, and the peace of mind that your ESTA application is in capable hands, allowing you to focus on your upcoming trip.",
+    "listheading": "Key services we offer include:",
+    "listheadingtwo": "ESTA Processing Service",
+    "list1": "Dedicated Specialist: A personal expert will manage your application from start to finish.",
+    "list2": "Smart Tools: We replace complicated government forms with user-friendly digital tools.",
+    "list3": "Proactive Error Resolution: We correct any mistakes or inconsistencies in your application.",
+    "list4": "Attorney Support: If needed, a licensed immigration attorney will assist with your case.",
+    "list5": "24/7 Support: Contact us anytime, from anywhere in the world via email or phone.",
+    "list6": "Fast processing times",
+    "list7": "Avoid unnecessary stress",
+    "list8": "Prevent spelling errors",
+    "list9": "User-friendly application form",
+    "list10": "Application information checked by dedicated specialists",
+    "list11": "24/7 unlimited support and responses",
+    "list12": "Review by a travel specialist"
+  },
+
+  "section1": {
+    "sectionheading": "Visiting USA with a B-2 Tourist Visa or Travel Authorization (ESTA)",
+    "sectiondisc": "All foreigners visiting the United States of America need to hold a valid visa or travel authorization (ESTA) unless they are green card holders. While a visa is issued by a US embassy, the travel authorization is applied for an issued online. The Electronic System for Travel Authorisation (ESTA) serves as an online platform designed to facilitate the application process for the U.S. Visa Waiver Program. For individuals planning to travel to the USA via air or sea, obtaining travel authorisation through ESTA is a prerequisite before embarking on their journey."
+  },
+
+  "section2": {
+    "sectionheading": "What are the requirements to apply for an ESTA?",
+    "sectiondisc": "Eligibility for the Visa Waiver Program is exclusive to citizens from 41 qualifying countries. To secure travel authorisation, an ESTA application must be duly completed. Additionally, a biometric passport featuring a microchip and the relevant symbol on its cover is mandatory. The Visa Waiver Program permits stays of up to 90 days, encompassing purposes such as tourism, business, transit, healthcare, or participation in non-credited study programs.",
+    "sectiondisc2": "It is recommended that travellers apply for ESTA prior to making any hotel or flight reservations, as there may be a need for a full visa. Once your ESTA application receives approval, you have the option to update it with final itinerary details before your departure"
+  },
+
+  "checklistsection": {
+    "heading": "Checklist for French citizens visiting the United States of America",
+    "list1": "Valid passport",
+    "list2": "ESTA or Visa approved",
+    "list3": "Itinerary and accommodation details.",
+    "list4": "Emergency Contacts",
+    "list5": "Travel maps and apps",
+    "list6": "Internet access",
+    "list7": "Payment methods and local currency (USD)",
+    "list8": "Transportation options",
+    "list9": "Read the latest news",
+    "list10": "Translation app (if needed)",
+    "list11": "Adapters for 110V"
+  },
+
+  "countrylist": {
+    "heading": "The 41 Visa Waiver Program Member Countries:"
+  },
+
+  "footer": {
+    "footerdescription": "This website is managed by ETAS TRAVEL LEGAL, a licensed U.S. Law Firm. This website is NOT affiliated with any United States governmental agency. Our platform provides step-by-step assistance to ensure applications are complete and accurate. Our service and fees are optional. Applicants can apply directly at esta.cbp.dhs.gov",
+    "copyrights": "© 2024 U.S. IMMIGRATION SUPPORT - All Rights Reserved"
+  }
+}
